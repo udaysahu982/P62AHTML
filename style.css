@@ -1,0 +1,38 @@
+.ud{
+        display: flex;
+        justify-content: center;
+
+    }
+    .ud a{
+        margin: 20px; font-size: 20px;
+    }
+
+    /* for start file */
+     .para1{
+            color: rgb(111, 0, 255); 
+            font-size:xx-large;
+            background-color: burlywood;
+            font-style: italic;
+            font-weight: bold;
+            font-family: Calibri;
+            text-decoration: overline;
+            letter-spacing: 10px;
+            
+        }
+        .para2{
+color: floralwhite;            background-color: black;
+            font-size: xx-large;
+            font-style: italic;
+            font-weight: bold;
+            font-family: Calibri;
+            text-decoration: overline;
+            letter-spacing: 10px;
+
+        }
+        h2{
+            color: antiquewhite;
+            background-color: crimson;
+            font-style: italic;
+            font-size: xx-large;
+            text-decoration: overline;
+        }
