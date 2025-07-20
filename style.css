@@ -17,22 +17,37 @@
             font-family: Calibri;
             text-decoration: overline;
             letter-spacing: 10px;
+            display: flex;
+            border-bottom: 5px solid crimson;
+            border-top-right-radius: 15px;
+            border-bottom-right-radius: 15px ;
+            
             
         }
         .para2{
-color: floralwhite;            background-color: black;
+            color: floralwhite;          
+            background-color: black;
             font-size: xx-large;
             font-style: italic;
             font-weight: bold;
             font-family: Calibri;
             text-decoration: overline;
             letter-spacing: 10px;
-
+            display: flex;
+            justify-content: center;
+            border-bottom: 5px dotted red;
+            
+            
         }
+
+
         h2{
             color: antiquewhite;
             background-color: crimson;
             font-style: italic;
             font-size: xx-large;
-            text-decoration: overline;
+            letter-spacing: 5px;
+            display: flex;
+            justify-content: end;
+            border: 4px dashed dodgerblue;
         }
